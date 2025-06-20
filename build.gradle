@@ -22,6 +22,7 @@ dependencies {
             "com.intuit.karate:karate-apache:0.9.6",
             "net.masterthought:cucumber-reporting:5.8.1",
             'junit:junit:4.13.2'
+            
 }
 
 test {
